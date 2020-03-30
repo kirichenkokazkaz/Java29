@@ -1,84 +1,19 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
 
-##############################
-## Джава
-##############################
-.mtj.tmp /
-*.учебный класс
-* .jar
-* .war
-* .ear
-* .nar
-hs_err_pid *
-
-##############################
-## Maven
-##############################
-мишень /
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-pom.xml.bak
-release.properties
-Зависимость восстановленной-pom.xml
-buildNumber.properties
-.mvn / timing.properties
-.mvn / обертку / Maven-wrapper.jar
-
-##############################
-## Gradle
-##############################
-бен /
-сборки /
-.gradle
-.gradletasknamecache
-Gradle-app.setting
-! Gradle-wrapper.jar
-
-##############################
-## IntelliJ
-##############################
-вне/
-.idea /
-.idea_modules /
-* .iml
-* .ipr
-* .iws
-
-##############################
-## Затмение
-##############################
-.settings /
-бен /
-TMP /
-.metadata
+### STS ###
+.apt_generated
 .classpath
-.project
-* .tmp
-* .bak
-* .swp
-* ~ .Nib
-local.properties
-.loadpath
 .factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
-##############################
-## NetBeans
-##############################
-nbproject / частный /
-сборки /
-nbbuild /
-расстояние /
-nbdist /
-nbactions.xml
-NB-configuration.xml
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
 
-##############################
-## Код Visual Studio
-##############################
-.vscode /
-
-##############################
-## OS X
-##############################
-.DS_Store
+*.class
